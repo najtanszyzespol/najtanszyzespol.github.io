@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Papryk Rzygo",
+		"isSinger": true,
+		"price": 5
+	},
+	{
+		"name": "Dżon Basista",
+		"isSinger": false,
+		"price": 10
+	},
+	{
+		"name": "Gregory Pretty",
+		"isSinger": true,
+		"price": 8
+	},
+	{
+		"name": "Kamilo Bambilo",
+		"isSinger": false,
+		"price": 11
+	},
+	{
+		"name": "Cube Novacci",
+		"isSinger": false,
+		"price": 2
+	},
+	{
+		"name": "Ivory Nemec",
+		"isSinger": false,
+		"price": 2
+	},
+	{
+		"name": "Andrew Dudae",
+		"isSinger": true,
+		"price": 4
+	},
+	{
+		"name": "Marco Srarko",
+		"isSinger": false,
+		"price [PLN/h]": 6
+	}
+]
