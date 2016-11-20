@@ -26,4 +26,4 @@ Mamy rozwiązanie twoich problemów! W odpowiedzi na takie sytuacje, powstał na
 ---
 ![Nienawiść boli](http://c.wrzuta.pl/wi4911/b6d4392a0011eb33500f5734)
 
-->{{ page.wioslo }}<-
+-> {{ page.wioslo }} <-
