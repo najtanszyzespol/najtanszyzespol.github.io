@@ -15,11 +15,11 @@ title: Skład zespołu
 {%endfor%}
 </ul>
 
-**Instrumentarium do wyboru: 
+**Instrumentarium do wyboru: **
 + dwie gitary marki Defil Lubin
 + zestaw dwóch garnków kuchennych, trzech patelni bez rączek i kosz na śmieci zaadoptowane do zastosowań perkusyjnych
 + grzebień z papierkiem
 + fujarka bieszczadzkiego pasterza owiec
-+ deska z klawiszami udającymi pianino marki *Made in China*
-**
++ deska z klawiszami udającymi pianino marki **Made in China**
+
 
