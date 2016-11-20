@@ -17,7 +17,7 @@ Serdecznie im dziękujemy i przy okazji chcielibyśmy podzielić się z wami nag
     <iframe width="560" height="315" src="https://www.youtube.com/embed/0zxxM9EYQzY" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
-<p style="text-align: center;"> Elegancko. </p>
+<p style="text-align: center;">Elegancko.</p>
 
 [nasz-mail]: najtanszy@najlepszy.su
 
