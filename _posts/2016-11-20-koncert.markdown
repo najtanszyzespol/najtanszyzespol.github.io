@@ -23,4 +23,4 @@ Przechodząc do meritum:
 
 ![partyhard](http://busites-www.s3.amazonaws.com/woodstockcom/2014/03/johnseb.jpg)
 
--> {{ post.podpis }} <-
+<p style="text-align: center;">{{ post.podpis }}</p>
