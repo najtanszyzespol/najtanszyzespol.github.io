@@ -13,7 +13,7 @@ Na [naszą skrzynkę mailową][nasz-mail] przyszedł ostatnio mail z pozdrowieni
 
 Serdecznie im dziękujemy i przy okazji chcielibyśmy podzielić się z wami nagraniem z ich próby.
 
-[![Prawdziwi muzycy!]( https://www.youtube.com/watch?v=0zxxM9EYQzY/0.jpg)]( https://www.youtube.com/watch?v=0zxxM9EYQzY )
+[![IMAGE ALT TEXT HERE](http://www.youtube.com/watch?v=0zxxM9EYQzY/0.jpg)](http://www.youtube.com/watch?v=0zxxM9EYQzY)
 
 <p style="text-align: center;">{{ Elegancko. }}</p>
 
