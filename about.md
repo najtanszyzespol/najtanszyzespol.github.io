@@ -2,10 +2,10 @@
 layout: page
 title: Zdrawstwujcie
 permalink: /about/
-wioslo: mea guitarra
+wioslo: Sekcja szarpana zespolu
 ---
 
-# No elo.
+# Szanowni Panstwo.
 
 ### Jesteśmy *CeglaTheBand*. Gramy ~~słabo~~ **tanio**. Piniomdze nie grajo roli.
 ---
