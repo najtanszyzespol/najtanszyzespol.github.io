@@ -3,7 +3,6 @@ layout: post
 title:  "Koncert w Koziej Wólce!"
 date:   2016-11-20 13:43:38 +0100
 categories: jekyll update
-podpis: Będzie tak!
 
 ---
 
@@ -18,9 +17,11 @@ Człowieka tak znamienitego grzech nie posłuchać. Tak więc, długo się nie z
 Ku naszej uciesze, dzielnej straży ogniowej pomysł wydał się bardzo interesujący.
 
 Przechodząc do meritum:
+
 # Chcielibyśmy z dumą zaprosić was wszystkich na nasz pierwszy w historii koncert!
+
 **Wydarzenie będzie miało miejsce 6 grudnia, w mikołajki, w remizie Ochotniczej Straży Pożarnej w Koziej Wólce. Będzie się działo!**
 
 ![partyhard](http://busites-www.s3.amazonaws.com/woodstockcom/2014/03/johnseb.jpg)
 
-<p style="text-align: center;">{{ post.podpis }}</p>
+<p style="text-align: center;">*Będzie tak!*</p>
