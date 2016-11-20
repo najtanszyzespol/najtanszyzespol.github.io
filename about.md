@@ -9,11 +9,18 @@ wioslo: Sekcja szarpana zespołu
 
 # Jesteśmy *CeglaTheBand*. Gramy ~~słabo~~ **tanio**.
 
-Przyjęcie weselne to ważne wydarzenie w życiu praktycznie każdej kobiety. Panna młoda zawsze stara się wypaść jak najlepiej i jednocześnie przeżyć ten dzień tak, by zapamiętać go pięknie na całe życie.
+Wesele, chrzciny, urodziny, rocznica czy stypa?
 
-Dla mężczyzny, jest to trudny czas, kiedy musi zrobić wiele rzeczy wbrew sobie, trochę poudawać, wszystko po to, by nie podpaść zbyt wcześnie swojej wybrance i jej rodzinie. Na domiar złego, tak często wiąże się to z poważnymi wydatkami, między innymi na zespół muzyczny zapewniający oprawę dźwiękową podczas wydarzenia.
+W naszym ludzkim życiu niejednokrotnie przeżywamy podniosłe chwile, w towarzystwie najbliższych. Organizowane są wtedy przyjęcia, które chcielibyśmy spędzić w jak najlepszej atmosferze.
 
-W odpowiedzi na takie sytuacje, powstał nasz zespół. Nie jesteśmy w stanie całkowicie rozwiązać problemu, lecz z ogromnym poświęceniem i sumiennością wesprzemy w tej trudnej chwili, napijemy się i podtrzymamy na duchu. Coś tam zagramy, więc wymówka w stylu *"przecież załatwiłem zespół, skąd miałem wiedzieć, że nie umieją grać?"* będzie w pełni uzasadniona. Co w tym najlepsze, zapłata za naszą usługę będzie naprawdę symboliczna. Nie robimy tego dla pieniędzy. Czujemy, że to nasza misja.
+Co może nam pomóc w zorganizowaniu idealnego przyjęcia? Na pewno odpowiedni dobór miejsca, towarzystwa, lecz często mile widziana jest oprawa muzyczna.
+
+Zespoły muzyczne przeważnie liczą sobie spore sumy za świadczenie takich usług. Nie każdy może sobie jednak pozwolić na taki wydatek.
+
+Wyobraźmy sobie sytuację: zbliża się nasze przyjęcie weselne. Chcielibyśmy jak najlepiej ugościć naszych bliskich, zapewniając im niesamowitą atmosferę. Niestety, wynajmując salę w najdroższej restauracji w okolicy, już dawno znacząco przekroczyliśmy budżet. Czyżbyśmy nie mieli wyjścia i musieli z czegoś zrezygnować? Wesele bez muzyki?
+
+Mamy rozwiązanie twoich problemów! W odpowiedzi na takie sytuacje, powstał nasz zespół. Z ogromną przyjemnością przyjedziemy, zagramy, zjemy, coś wypijemy. Być może muzycy z nas tacy, jakby nam słoń na ucho nadepnął, ale mamy jeden zasadniczy argument. Zapłata za naszą usługę będzie naprawdę symboliczna. Nie robimy tego dla pieniędzy. Czujemy, że to nasza misja.
+
 
 # Pieniądze nie grają roli.
 ---
