@@ -15,7 +15,7 @@ title: Skład zespołu
 {%endfor%}
 </ul>
 
-**Instrumentarium do wyboru: **
+**Instrumentarium do wyboru:**
 
 + dwie gitary marki Defil Lubin
 
@@ -25,6 +25,6 @@ title: Skład zespołu
 
 + fujarka bieszczadzkiego pasterza owiec
 
-+ deska z klawiszami udającymi pianino marki **Made in China**
++ deska z klawiszami udającymi pianino marki *Made in China*
 
 
