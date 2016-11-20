@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Zdrawstwujcie
+title: O zespole
 permalink: /about/
-wioslo: Sekcja szarpana zespolu
+wioslo: Sekcja szarpana zespołu
 ---
 
-# Szanowni Panstwo.
+# Szanowni Państwo.
 
 ### Jesteśmy *CeglaTheBand*. Gramy ~~słabo~~ **tanio**. Piniomdze nie grajo roli.
 ---
