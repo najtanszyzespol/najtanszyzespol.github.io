@@ -11,6 +11,6 @@ title: Skład zespołu
   <li style="{% if item.isSinger %}color: blue {% endif %}">
     {{ item.name }}
   </li>
-	{{ item.price }}
+	cena [PLN/noc]: {{ item.price }}
 {%endfor%}
 </ul>
